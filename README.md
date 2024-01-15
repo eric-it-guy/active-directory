@@ -24,32 +24,29 @@ Project consists of setting up resources in Azure; connecting the client VM with
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Setting up Resources <br/>
+<img src="./images/AD-LAB.png" height="80%" width="80%" alt="Active Directory - Deployment"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Ensure Connectivity between client and DC  <br/>
+<img src="./images/ping_dc1.png" height="80%" width="80%" alt="Active Directory - Deployment"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Active Directory Installed. Create Admin + Normal User Acounts  <br/>
+<img src="./images/new_folders.png" height="80%" width="80%" alt="Active Directory - Deployment"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Join Client-1 to domain (ericxu.com)  <br/>
+<img src="./images/change_domain.png" height="80%" width="80%" alt="Active Directory - Deployment"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Setup up Remote Desktop for non-admin users on Client-1  <br/>
+<img src="./images/remote_desktop.png" height="80%" width="80%" alt="Active Directory - Deployment"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Creating a bunch of Users  <br/>
+<img src="./images/employees_list.png" height="80%" width="80%" alt="Active Directory - Deployment"/>
 <br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <!--
