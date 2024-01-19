@@ -25,27 +25,27 @@ Project consists of setting up resources in Azure; connecting the client VM with
 
 <p align="center">
 Setting up Resources <br/>
-<img src="./images/AD-LAB.png" height="80%" width="80%" alt="Active Directory - Deployment"/>
+<!-- <img src="./images/AD-LAB.png" height="80%" width="80%" alt="Active Directory - Deployment"/> -->
 <br />
 <br />
 Ensure Connectivity between client and DC  <br/>
-<img src="./images/ping_dc1.png" height="80%" width="80%" alt="Active Directory - Deployment"/>
+<!-- <img src="./images/ping_dc1.png" height="80%" width="80%" alt="Active Directory - Deployment"/> -->
 <br />
 <br />
 Active Directory Installed. Create Admin + Normal User Acounts  <br/>
-<img src="./images/new_folders.png" height="80%" width="80%" alt="Active Directory - Deployment"/>
+<!-- <img src="./images/new_folders.png" height="80%" width="80%" alt="Active Directory - Deployment"/> -->
 <br />
 <br />
 Join Client-1 to domain (ericxu.com)  <br/>
-<img src="./images/change_domain.png" height="80%" width="80%" alt="Active Directory - Deployment"/>
+<!-- <img src="./images/change_domain.png" height="80%" width="80%" alt="Active Directory - Deployment"/> -->
 <br />
 <br />
 Setup up Remote Desktop for non-admin users on Client-1  <br/>
-<img src="./images/remote_desktop.png" height="80%" width="80%" alt="Active Directory - Deployment"/>
+<!-- <img src="./images/remote_desktop.png" height="80%" width="80%" alt="Active Directory - Deployment"/> -->
 <br />
 <br />
 Creating a bunch of Users  <br/>
-<img src="./images/employees_list.png" height="80%" width="80%" alt="Active Directory - Deployment"/>
+<!-- <img src="./images/employees_list.png" height="80%" width="80%" alt="Active Directory - Deployment"/> -->
 <br />
 </p>
 
